@@ -8,6 +8,9 @@ cardholder.
    Used Random Forest for Outlier detection and measuref the result of detection model using Precision-Recall technique. We have also handle Imbalanced data using SMOTE (Synthetic Minority Over-sampling Technique ) to increase accuracy and efficiency of detection model.
    Behavioural pattern of spending money depends on past history of transactions and attributes such as location, daily expenses, transaction time of cardholder can be compared with current transaction details to detection credit card frauds. Deviation from such behavior helps to detect fraud with more accuracy. With the deviation in behavioral data, we used different data mining techniques to detect the fraud. The model can then be used to identify whether the new transaction is fraud or not.
 
+#### Installation
+   - Download dataset https://www.kaggle.com/mlg-ulb/creditcardfraud/download
+
 #### Objective
 
  - To detect fraudulent transactions by considering customer past behavioral data.
